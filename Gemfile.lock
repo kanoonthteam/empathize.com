@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails.git
-  revision: 3ecc26981476d6a8c4f1ba5bd33bfdeef1659a0f
+  revision: f657842090ec99ba8879eb24c3b10e30f997daf0
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -111,8 +111,7 @@ GEM
     debug (1.9.1)
       irb (~> 1.10)
       reline (>= 0.3.8)
-    drb (2.2.0)
-      ruby2_keywords
+    drb (2.2.1)
     erubi (1.12.0)
     globalid (1.2.1)
       activesupport (>= 6.1)
@@ -136,7 +135,7 @@ GEM
       net-imap
       net-pop
       net-smtp
-    marcel (1.0.2)
+    marcel (1.0.3)
     mini_mime (1.1.5)
     minitest (5.21.2)
     msgpack (1.7.2)
@@ -230,7 +229,6 @@ GEM
       rubocop-performance
       rubocop-rails
     ruby-progressbar (1.13.0)
-    ruby2_keywords (0.0.5)
     stimulus-rails (1.3.3)
       railties (>= 6.0.0)
     stringio (3.1.0)
